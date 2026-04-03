@@ -3,10 +3,10 @@
 Saya adalah seorang pelajar, Junior Front-End Developer, dan UI/UX enthusiast. Saya senang merancang dan membangun antarmuka web yang interaktif, visual yang menarik, serta user-friendly.
 
 ### 👨‍💻 Tentang Saya
-- 🎓 Saat ini berstatus sebagai **Pelajar**.
-- 💡 Berfokus pada **Front-End Development** dan **UI/UX Design**.
-- 🌱 Saat ini sedang mempelajari **ReactJS**, **Framer**, dan **GSAP Library** untuk meningkatkan interaksi dan animasi web.
-- ⚡ Memiliki pemahaman dalam pengelolaan database dan logic dasar programming.
+- Saat ini berstatus sebagai **Pelajar**.
+- Berfokus pada **Front-End Development** dan **UI/UX Design**.
+- Saat ini sedang mempelajari **ReactJS**, **Framer**, dan **GSAP Library** untuk meningkatkan interaksi dan animasi web.
+- Memiliki pemahaman dalam pengelolaan database dan logic dasar programming.
 
 ### 🛠️ Tech Stack & Tools
 
@@ -32,9 +32,8 @@ Saya adalah seorang pelajar, Junior Front-End Developer, dan UI/UX enthusiast. S
 ![Framer](https://img.shields.io/badge/framer-black?style=for-the-badge&logo=framer&logoColor=white)
 ![GSAP](https://img.shields.io/badge/gsap-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
 
-### 📫 Hubungi Saya / Portofolio
-- **GitHub:** [@rafa-as](https://github.com/rafa-as)
+### 📫 Hubungi Saya
 - **Insta:** [@rrfaas](https://www.instagram.com/rrfaas/)
 
 ---
-⭐️ Terima kasih sudah mengunjungi!
+## Terima kasih sudah mengunjungi!
